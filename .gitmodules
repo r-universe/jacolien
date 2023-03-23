@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "itsadug"]
+	path = itsadug
+	url = https://github.com/cran/itsadug
+	shallow = true
+	registered = true
+[submodule "plotfunctions"]
+	path = plotfunctions
+	url = https://github.com/cran/plotfunctions
+	shallow = true
+	registered = true
