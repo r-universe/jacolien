@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "edl"]
+	path = edl
+	url = https://github.com/cran/edl
+	shallow = true
+	registered = true
 [submodule "itsadug"]
 	path = itsadug
 	url = https://github.com/cran/itsadug
